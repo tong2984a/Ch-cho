@@ -8,7 +8,7 @@ Here we showcase some of our local artists and their original works
 
 #### HOUSE OF EIGHT
 ##### 2017 - Mixed Media on Canvas
-![[Watch the video A2](https://user-images.githubusercontent.com/62372389/133919358-3a0659e3-4339-4bcd-ba31-0cc1fe689e45.png)](https://res.cloudinary.com/receipts14/video/upload/v1632029327/A2_uvnp7y.mp4)
+[![Watch the video A2](https://user-images.githubusercontent.com/62372389/133919358-3a0659e3-4339-4bcd-ba31-0cc1fe689e45.png)](https://res.cloudinary.com/receipts14/video/upload/v1632029327/A2_uvnp7y.mp4)
 
 
 
