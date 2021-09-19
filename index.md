@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+## Welcome to Chōcho 祥盛隆 バタフライ
 
-You can use the [editor on GitHub](https://github.com/tong2984a/Chocho/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+NFT Token tools and technologies that help users manage, market, and monetize local events and engage with their communities.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Introduction to Hong Kong Artists
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Here we showcase some of our local artists and their original works
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+![A2](https://res.cloudinary.com/receipts14/video/upload/v1632029327/A2_uvnp7y.mp4)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+```markdown
+![A3](https://res.cloudinary.com/receipts14/video/upload/v1632029485/A3_trr9yo.mp4)
+```
 
-### Jekyll Themes
+```markdown
+![P1](https://res.cloudinary.com/receipts14/video/upload/v1632029624/P1_mjjqpv.mp4)
+```
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tong2984a/Chocho/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+```markdown
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
+[![Alternate Text]({image-url})]({video-url} "Link Title")
 
-### Support or Contact
+[P2](https://res.cloudinary.com/receipts14/video/upload/v1632030448/P2_vuwcrv.mp4)
+```
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Stay tune for more news coming soon.
+
